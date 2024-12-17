@@ -2,7 +2,7 @@
  * API_GPIO.h
  *
  *  Created on         : SEP 15, 2024
- *  Author             : Joel Sanchez
+ *  Author             : Gandur, Leguizamón
  *  Function of driver : Driver que contiene funciones para manejo de puertos GPIO que utiliza funciones
  *  					 de la HAL de STM32 Nucleo F4xx
  ******************************************************************************************************/
