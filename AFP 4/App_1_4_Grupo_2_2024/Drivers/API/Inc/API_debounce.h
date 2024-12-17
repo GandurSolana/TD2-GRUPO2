@@ -2,7 +2,7 @@
  * API_GPIO.h
  *
  *  Created on         : NOV 26, 2024
- *  Author             : Joel Sanchez
+ *  Author             : Gandur, Leguizamón
  *  Function of driver : Driver que contiene funciones anti rebote que utiliza funciones
  *  					 de la HAL de STM32 Nucleo F4xx
  ******************************************************************************************************/
