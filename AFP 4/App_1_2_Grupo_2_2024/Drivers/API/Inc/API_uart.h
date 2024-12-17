@@ -2,7 +2,7 @@
  * API_GPIO.h
  *
  *  Created on         : Nov 4, 2024
- *  Author             : Joel Sanchez
+ *  Author             : Gandur, Leguizamón
  *  Function of driver : Driver que contiene funcions Uart
  ******************************************************************************************************/
 #ifndef API_INC_API_UART_H_
